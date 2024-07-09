@@ -2,7 +2,7 @@ export const infoList = [
   {
     destination: "Hainan—Haikou",
     img: {
-      Url: "src/assets/images/static/haikou.png",
+      Url: "public/static/images/haikou.png",
       title: "Wanning",
     },
     content:
@@ -12,16 +12,17 @@ export const infoList = [
   {
     destination: "Hainan—Wanning",
     img: {
-      Url: "src/assets/images/static/wanning.jpg",
+      Url: "public/static/images/wanning.jpg",
       title: "Wanning",
     },
-    content: "Apartment with a view of a vast green lawn and beautiful sunset; Riding at night with frequent rain; Watching fireworks burst in the sky at Riyue Bay.",
+    content:
+      "Apartment with a view of a vast green lawn and beautiful sunset; Riding at night with frequent rain; Watching fireworks burst in the sky at Riyue Bay.",
     date: "7 Jul 2023",
   },
   {
     destination: "Guangdong—Zhanjiang",
     img: {
-      Url: "src/assets/images/static/zhanjiang.png",
+      Url: "public/static/images/zhanjiang.png",
       title: "Zhanjiang",
     },
     content:
@@ -31,16 +32,16 @@ export const infoList = [
   {
     destination: "Guangdong—Guangzhou",
     img: {
-      Url: "src/assets/images/static/guangzhou.png",
+      Url: "public/static/images/guangzhou.png",
       title: "Guangzhou",
     },
-    content:
-      "",date: "12 Jul 2023",
+    content: "",
+    date: "12 Jul 2023",
   },
   {
     destination: "Guangdong—Shunde",
     img: {
-      Url: "src/assets/images/static/shunde.png",
+      Url: "public/static/images/shunde.png",
       title: "Shunde",
     },
     content:
