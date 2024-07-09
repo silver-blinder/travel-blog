@@ -2,7 +2,7 @@ export const infoList = [
   {
     destination: "Hainan—Haikou",
     img: {
-      Url: "public/static/images/haikou.png",
+      Url: "public/images/haikou.png",
       title: "Wanning",
     },
     content:
@@ -12,7 +12,7 @@ export const infoList = [
   {
     destination: "Hainan—Wanning",
     img: {
-      Url: "public/static/images/wanning.jpg",
+      Url: "public/images/wanning.jpg",
       title: "Wanning",
     },
     content:
@@ -22,7 +22,7 @@ export const infoList = [
   {
     destination: "Guangdong—Zhanjiang",
     img: {
-      Url: "public/static/images/zhanjiang.png",
+      Url: "public/images/zhanjiang.png",
       title: "Zhanjiang",
     },
     content:
@@ -32,7 +32,7 @@ export const infoList = [
   {
     destination: "Guangdong—Guangzhou",
     img: {
-      Url: "public/static/images/guangzhou.png",
+      Url: "public/images/guangzhou.png",
       title: "Guangzhou",
     },
     content: "",
@@ -41,7 +41,7 @@ export const infoList = [
   {
     destination: "Guangdong—Shunde",
     img: {
-      Url: "public/static/images/shunde.png",
+      Url: "public/images/shunde.png",
       title: "Shunde",
     },
     content:

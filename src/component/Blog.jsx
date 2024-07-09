@@ -21,7 +21,7 @@ const Blog = ({ destination, img, content, date }) => {
           <p className=" text-sm font-myfont2 pt-0">{date}</p>
           <div className=" flex flex-row gap-2 items-center">
             <img
-              src="public/static/images/image-avatar.webp"
+              src="public/images/image-avatar.webp"
               alt="writer"
               className=" w-6 rounded-full"
             />
