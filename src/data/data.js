@@ -2,7 +2,7 @@ export const infoList = [
   {
     destination: "Hainan—Haikou",
     img: {
-      Url: "/images/haikou.png",
+      Url: "/images/content/haikou.png",
       title: "Wanning",
     },
     content:
@@ -12,7 +12,7 @@ export const infoList = [
   {
     destination: "Hainan—Wanning",
     img: {
-      Url: "/images/wanning.jpg",
+      Url: "/images/content/wanning.jpg",
       title: "Wanning",
     },
     content:
@@ -22,7 +22,7 @@ export const infoList = [
   {
     destination: "Guangdong—Zhanjiang",
     img: {
-      Url: "/images/zhanjiang.png",
+      Url: "/images/content/zhanjiang.png",
       title: "Zhanjiang",
     },
     content:
@@ -32,20 +32,20 @@ export const infoList = [
   {
     destination: "Guangdong—Guangzhou",
     img: {
-      Url: "/images/guangzhou.png",
+      Url: "/images/content/guangzhou.png",
       title: "Guangzhou",
     },
-    content: "",
+    content: "We really love the unique vibe of Guang zhou —— the down-to-earth, carefree atmosphere where you can see old men getting up at four AM to drink tea.",
     date: "12 Jul 2023",
   },
   {
     destination: "Guangdong—Shunde",
     img: {
-      Url: "/images/shunde.png",
+      Url: "/images/content/shunde.png",
       title: "Shunde",
     },
     content:
-      "Ship-bus to Zhanjiang with beautiful nightfall around the sea. Riding shared electric bike around the city / Wandering the Chikan Old Street / Walking along the river at night...",
+      "I have to say, Shunde is filled with delicious food. Desserts, hotpot, seafood... it's all there, making you never want to leave.",
     date: "16 Jul 2023",
   },
 ];
