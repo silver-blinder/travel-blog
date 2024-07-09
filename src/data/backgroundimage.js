@@ -7,7 +7,6 @@ export const backgroundimg = [
   "/images/background/7.JPG",
   "/images/background/8.JPG",
   "/images/background/9.JPG",
-  "/images/background/10.JPG",
   "/images/background/11.JPG",
   "/images/background/12.JPG",
   "/images/background/13.JPG",
